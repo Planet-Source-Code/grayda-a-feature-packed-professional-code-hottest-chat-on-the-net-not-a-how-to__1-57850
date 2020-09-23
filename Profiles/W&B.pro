@@ -1,0 +1,23 @@
+[Theme]
+Heading=0
+Message=0
+Disconnect=0
+Connect=0
+Server=0
+Action=0
+Good=0
+Error=0
+Background=-2147483633
+BackgroundPic=
+SendBackColor=16777215
+ChatBackColor=16777215
+SendForeColor=-2147483640
+Title=Colour Impurity - 
+Buttons=16777215
+WelcomeMSG0=Without light
+WelcomeMSG1=Colours will riot
+WelcomeMSG2=laughter will die
+WelcomeMSG3=and children will cry
+Author=Grayda
+Description=For people who don't like colour
+EndWindow= - Colour Intensive

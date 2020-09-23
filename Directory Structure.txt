@@ -1,0 +1,17 @@
+Directory structure. Maximize Notepad window for best viewing
+
+Classes					All Class Module Files (1 file)
+Forms 					All standard NChat Forms (44 Files)
+Help					The entire NChat Help file (1 file, 2 folder)
+	Images				Pictures for the Help File (26 files)
+	Notch Help			Help file for the Autobot (1 file)
+		Images			Pictures for the Notch Help File (7 files)
+Modules					All standard modules (10 files)
+Other Stuff				Various Tools, pictures etc. (11 Files)
+	NChat Admin Password Generator	Generates NChat Admin Passwords (3 files)
+	NChat NCG Analyser		Gives you details about your settings file (4 Files)
+	New Profiles			New profiles for NChat Alpha (9 files)
+Profiles				Standard Profiles for NChat (14 Files)
+UserControls				Standard Usercontrols used in NChat (6 files)
+
+
