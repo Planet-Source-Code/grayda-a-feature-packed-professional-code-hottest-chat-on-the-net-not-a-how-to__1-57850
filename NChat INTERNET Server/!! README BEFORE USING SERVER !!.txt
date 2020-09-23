@@ -1,0 +1,3 @@
+WARNING:
+
+Using NChat on TCP Mode (ie. Connecting to a server), has NOT been tested. EVERY time, the connection is forcefully rejected. Therefore you should NOT use NChat on a server, unless you are sure it works...

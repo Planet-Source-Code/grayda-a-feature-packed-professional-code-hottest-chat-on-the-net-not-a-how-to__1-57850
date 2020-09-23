@@ -1,0 +1,19 @@
+[Theme]
+Heading=12615680
+Message=16738603
+Disconnect=202
+Connect=32768
+Server=8388736
+Action=33023
+Good=49408
+Error=255
+Background=-2147483633
+BackgroundPic=
+SendBackColor=16777215
+ChatBackColor=16777215
+SendForeColor=-2147483640
+Title=Welcome to NChat Generation 2!! - 
+Buttons=16777215
+Author=
+Description=
+EndWindow= 

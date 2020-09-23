@@ -1,0 +1,19 @@
+[Theme]
+Heading=4194432
+Message=4194432
+Disconnect=4194432
+Connect=4194432
+Server=4194432
+Action=4194432
+Good=8388736
+Error=8388736
+Background=8388863
+BackgroundPic=
+SendBackColor=14399487
+ChatBackColor=14399487
+SendForeColor=4194432
+Title=--<@ Purple Illusions
+Buttons=33023
+Author=Grayda
+Description=The dream of velvet desires
+EndWindow= @>--

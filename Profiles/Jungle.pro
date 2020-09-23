@@ -1,0 +1,19 @@
+[Theme]
+Heading=65280
+Message=65280
+Disconnect=65280
+Connect=65280
+Server=65280
+Action=65280
+Good=8454016
+Error=13303754
+Background=32768
+BackgroundPic=
+SendBackColor=32768
+ChatBackColor=32768
+SendForeColor=65280
+Title=The beast within |-|
+Buttons=33023
+Author=Grayda
+Description=Jungle Rhythms
+EndWindow= |-|

@@ -1,0 +1,22 @@
+These tools were written by me, and are designed to enhance your NChat Experience. Some tools are not meant to be released publicly with NChat (Such as the administrator password generator)
+
+The New Profiles, are some profiles that I have added. These are the new ones for Build 6 and above (This release is Code-Named Build 10). These have been added to some of the existing profiles, and can be edited freely
+
+The Admin Password Generator dynamically creates your NChat Admin Password, so you can run the room, and have some fun :D. To use it, you enter your EXACT NChat username, and then the program will give you a password. Enter that into NChat, and there you go!
+
+The Data Readme explains in Detail how NChat sends and recieves data. You can use it to more effectivly run the room etc.
+
+The RES file can be opened in Visual Basic, and contains all the profiles, and Tips of the Day
+
+The two Icons can be used as you wish, as long as credit is given to me. Both have 16x16, 32x32 and 48x48,
+making the icon compatible with Windows XP, which uses 48x48
+
+Old Splash 1.jpg is the old NChat Splash screen. It's not used any more, but can be used if you feel it's necessary
+
+Old Splash 2.png is the first Splash screen to use per pixel PNG rendering. It looks crap compared to the newer one, but you can do what you like with it
+
+Old Splash 3.png is from Build 10. I made a better one that resembles the KDE-Box PNG used in Linux (Mainly distributed with Knoppix CDs
+
+Splash.png is a Semi-transparent, Portable Network Graphic (PNG) file, which is used in NChat for the splash screen in Build 10. Use it as a preview, and do anything you like to it, but make sure that you give me credit for it, because I worked for like 4 hours getting it all right :)
+
+Sample Notch File.ini is the sample Notch script file. Edit it as you wish...

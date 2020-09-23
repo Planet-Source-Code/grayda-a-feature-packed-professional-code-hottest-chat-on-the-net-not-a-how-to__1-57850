@@ -1,0 +1,20 @@
+[Theme]
+Heading=16777215
+Message=16777215
+Disconnect=16777215
+Connect=11796403
+Server=12632256
+Action=16777215
+Good=65280
+Error=16776960
+Background=9922048
+BackgroundPic=
+SendBackColor=12615680
+ChatBackColor=12615680
+SendForeColor=16777215
+Title=Perfect Blue ><(((°> 
+Buttons=33023
+WelcomeMSG0=Oceanic Memories
+Author=Grayda
+Description=// Blue \\
+EndWindow= <°)))><

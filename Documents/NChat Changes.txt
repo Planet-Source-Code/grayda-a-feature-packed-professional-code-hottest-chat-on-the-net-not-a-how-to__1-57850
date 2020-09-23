@@ -1,0 +1,71 @@
+Some things have changed since Build 8:
+
+- ALL the profiles didn't copy correctly, because of a Resource Error, that has now been fixed
+
+- HOPEFULLY the little error with the Private messages have been fixed (WHen you double clicked, ALL the messages were opened, and not just all from ONE user
+
+- Help file is now complete, with links and everything
+
+- Help can be called from the Help menu in NChat
+
+- Script support has been removed (More of a hinderance than help)
+
+- The Help Form has been removed, because the help file is here!! :)
+
+- This changes file now exists! Wooooo!
+
+- Some pictures added to the store, to give the illusion of coolness
+
+- Testing bug removed (Caused NChat to not work AT ALL on some comps)
+
+- Plus some more fixes, additions, removals, and other junk
+
+- A SMALL amount of code optimization, and a LOT of picture optimizations!
+
+- License file. Please read it, coz it tells you what you can and can't do with my code
+
+- The port structure of NChat has been changed. Those damn admins have blocked access to any NChat below Alpha at my school, and I hope that fixes it, and some other problems.
+
+- New REALLY cool splash screen included. Uses Pixel-by-Pixel rendering for transparent PNGs
+
+- Modules 1, 2 and 3 have been sorted, and placed into more appropriately named modules
+
+- A whole lot more of the code is commented, just so it's easier for others to understand
+
+- Some comments added. More to come! Don't understand anything? E-Mail me!!
+
+- Notch has been updated, and now supports con, dis and several other NChat commands
+
+- Oh, by the way, the help file has been fixed, and slightly updated
+
+- NChat now sits at ~860kb big! (BTW, the old NChats used to be between1.0 mb and 1.4 mb!!)
+
+- You can now have unlimited Chat windows going. No longer restricted to 50 or 100
+
+- There is an Autobot help file now. You can learn how to program Notch, and a sample file is included
+
+- FINALLY! The file transfer system has had a MASSIVE overhaul and should now work
+
+- A bug with the Whiteboard was fixed, which made all pictures look funny if hovered over
+
+- Another bug (who would have guessed?!? :) ) was fixed involving user icons not being changed when selected through the options.
+
+- Notch has been updated significantly, usinga new INI based system. This means more interactivity can be obtained! Woah...
+
+- NChat is now 80% Windows ME and lower compliant! (See Readme for more info)
+
+- MASSIVE PM Bug fixed, where about 1,000,000 PMs were loaded into one window.
+
+- PM window now has scrollbars! :|
+
+- Once again the room creation portion of NChat now works! I forgot that the sckRooms winsock had to be on the same port :@. Damn I'm stupid sometimes
+
+- Significant work done on the File Transfer, and at one stage, actually started to transfer files! WOAH! BUt not it doesn't work again :(
+
+- Notch (The NChat Room Robot) can now LEARN new words through interaction
+
+- NChat is now Internet Compatible! The server source is included! WOOOOOHOHOHOHOHOHOOOOO!
+
+- Text highlighting has been removed, because could cause a security error in Windows ME, where texts were not highlighted (in essence, white highlighted text on white background)
+
+- Nearly 99% of data-parsing errors relating to Result() have been fixed, because the SplitVB5 function DIDN'T add a critical extra delimiter to the end! Seemed to work alright before...
